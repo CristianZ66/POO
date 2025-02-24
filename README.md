@@ -1,2 +1,2 @@
 # POO
-Este repositorio tendrá programación orientada a objetos
+Este repositorio tendrá un ejercicio de programación orientada a objetos
